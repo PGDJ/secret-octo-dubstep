@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="my_red">#f00</color>
+    <color name="my_red2">#80ff0000</color>
+    <color name="custom_theme_color">#e9f1f2</color>
+    <color name="magenta">#ba3a5b</color>
+    <color name="cyan">#0079a3</color>
+    <color name="pressed_blue">#00aeef</color>
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cuidado Importa</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_ways_women_win">Razones Por Las Cuales Las Mujeres Ganan</string>
+    <string name="title_questions">Preguntas Frecuentes</string>
+    <string name="title_get_insurance">Obtener Seguro</string>
+    <string name="fact_1">Su plan de salud debe cubrir apoyo y consejería sobre la lactancia por parte de proveedores calificados, y acceso a los insumos para la lactancia, para las embarazadas y para las mujeres que están amamantando.</string>
+    <string name="fact_2">Su plan de salud debe cubrir mamografía para la detección del cáncer de mama cada uno o dos años para las mujeres mayores de 40 años.</string>
+    <string name="fact_3">Su plan de salud debe cubrir métodos anticonceptivos : métodos anticonceptivos, esterilización, educación y asesoría aprobados por la Administración de Alimentos y Medicamentos, tal y como lo indique el médico para las mujeres en edad de concebir (no incluye los productos para abortar). Estos métodos no están disponibles en ciertos planes patrocinados por &quot;empleadores religiosos&quot;.</string>
+    <string name="fact_4">Su plan de salud debe cubrir consejería sobre la quimioprofilaxis del cáncer del mama para las mujeres de alto riesgo.</string>
+    <string name="fact_5">Su plan de salud debe cubrir evaluación sobre la anemia de manera rutinaria para las embarazadas.</string>
+    <string name="fact_6">Su plan de salud debe cubrir examen de cáncer cervica para las mujeres sexualmente activas.</string>
+    <string name="fact_7">Su plan de salud debe cubrir examen de clamidia para las jóvenes y las mujeres de alto riesgo.</string>
+    <string name="fact_8">Su plan de salud debe cubrir asesoría sobre la evaluación genética del cáncer de mama (BRCA) para las mujeres con alto riesgo de padecer de cáncer de mama.</string>
+    <string name="fact_9">Su plan de salud debe cubrir evaluación y asesoría sobre violencia interpersonal y doméstica para todas las mujeres.</string>
+    <string name="fact_10">Su plan de salud debe cubrir suplementos de ácido fólico para las mujeres que podrían quedar embarazadas.</string>
+    <string name="fact_11">Su plan de salud debe cubrir examen de diabetes gestacional para las mujeres con 24-28 semanas de embarazo y a las que están a riesgo de padecer de diabetes gestacional.</string>
+    <string name="fact_12">Su plan de salud debe cubrir examen de gonorrea para las mujeres en riesgo.</string>
+    <string name="fact_13">Su plan de salud debe cubrir examen de Hepatitis B para las embarazadas en la primera visita prenatal.</string>
+    <string name="fact_14">Su plan de salud debe cubrir examen y asesoría sobre el VIH para las mujeres sexualmente activas.</string>
+    <string name="fact_15">Su plan de salud debe cubrir examen de ADN para detectar el Virus del papiloma humano (HPV) cada 3 años para las mujeres con un resultado de la citología normal que tienen 30 años o más.</string>
+    <string name="fact_16">Su plan de salud debe cubrir examen de Osteoporosis para las mujeres mayores de 60 años, según sus factores de riesgo.</string>
+    <string name="fact_17">Su plan de salud debe cubrir examen de incompatibilidad Rh para todas las embarazadas y como examen de seguimiento para las mujeres de alto riesgo.</string>
+    <string name="fact_18">Su plan de salud debe cubrir consejería sobre las infecciones de transmisión sexual para las mujeres sexualmente activas.</string>
+    <string name="fact_19">Su plan de salud debe cubrir examen de sífilis para todas las embarazadas y las mujeres de alto riesgo.</string>
+    <string name="fact_20">Su plan de salud debe cubrir evaluación e intervención sobre el uso de tabacopara todas las mujeres, y consejería expandida para las embarazadas que fuman.</string>
+    <string name="fact_21">Su plan de salud debe cubrir vxamen para la detección de infecciones urinarias y otras infecciones para las embarazadas.</string>
+    <string name="fact_22">Su plan de salud debe cubrir visitas de rutina al doctor para recibir servicios recomendados para mujeres menores de 65 años.</string>
+
+    <string-array name="www_facts">
+	    <item>Su plan de salud debe cubrir apoyo y consejería sobre la lactancia por parte de proveedores calificados, y acceso a los insumos para la lactancia, para las embarazadas y para las mujeres que están amamantando.</item>
+	    <item>Su plan de salud debe cubrir mamografía para la detección del cáncer de mama cada uno o dos años para las mujeres mayores de 40 años.</item>
+	    <item>Su plan de salud debe cubrir métodos anticonceptivos : métodos anticonceptivos, esterilización, educación y asesoría aprobados por la Administración de Alimentos y Medicamentos, tal y como lo indique el médico para las mujeres en edad de concebir (no incluye los productos para abortar). Estos métodos no están disponibles en ciertos planes patrocinados por &quot;empleadores religiosos&quot;.</item>
+	    <item>Su plan de salud debe cubrir consejería sobre la quimioprofilaxis del cáncer del mama para las mujeres de alto riesgo.</item>
+	    <item>Su plan de salud debe cubrir evaluación sobre la anemia de manera rutinaria para las embarazadas.</item>
+	    <item>Su plan de salud debe cubrir examen de cáncer cervica para las mujeres sexualmente activas.</item>
+	    <item>Su plan de salud debe cubrir examen de clamidia para las jóvenes y las mujeres de alto riesgo.</item>
+	    <item>Su plan de salud debe cubrir asesoría sobre la evaluación genética del cáncer de mama (BRCA) para las mujeres con alto riesgo de padecer de cáncer de mama.</item>
+	    <item>Su plan de salud debe cubrir evaluación y asesoría sobre violencia interpersonal y doméstica para todas las mujeres.</item>
+	    <item>Su plan de salud debe cubrir suplementos de ácido fólico para las mujeres que podrían quedar embarazadas.</item>
+	    <item>Su plan de salud debe cubrir examen de diabetes gestacional para las mujeres con 24-28 semanas de embarazo y a las que están a riesgo de padecer de diabetes gestacional.</item>
+	    <item>Su plan de salud debe cubrir examen de gonorrea para las mujeres en riesgo.</item>
+	    <item>Su plan de salud debe cubrir examen de Hepatitis B para las embarazadas en la primera visita prenatal.</item>
+	    <item>Su plan de salud debe cubrir examen y asesoría sobre el VIH para las mujeres sexualmente activas.</item>
+	    <item>Su plan de salud debe cubrir examen de ADN para detectar el Virus del papiloma humano (HPV) cada 3 años para las mujeres con un resultado de la citología normal que tienen 30 años o más.</item>
+	    <item>Su plan de salud debe cubrir examen de Osteoporosis para las mujeres mayores de 60 años, según sus factores de riesgo.</item>
+	    <item>Su plan de salud debe cubrir examen de incompatibilidad Rh para todas las embarazadas y como examen de seguimiento para las mujeres de alto riesgo.</item>
+	    <item>Su plan de salud debe cubrir consejería sobre las infecciones de transmisión sexual para las mujeres sexualmente activas.</item>
+	    <item>Su plan de salud debe cubrir examen de sífilis para todas las embarazadas y las mujeres de alto riesgo.</item>
+	    <item>Su plan de salud debe cubrir evaluación e intervención sobre el uso de tabacopara todas las mujeres, y consejería expandida para las embarazadas que fuman.</item>
+	    <item>Su plan de salud debe cubrir vxamen para la detección de infecciones urinarias y otras infecciones para las embarazadas.</item>
+	    <item>Su plan de salud debe cubrir visitas de rutina al doctor para recibir servicios recomendados para mujeres menores de 65 años.</item>
+    </string-array>
+    
+     <string-array name="q_and_a_topics">
+        <item>El Mercado de Seguros Médicos</item>
+		<item>Usando el Mercado de seguros</item>
+		<item>Ahorros en los Costos de Cobertura</item>
+		<item>Jóvenes</item>
+		<item>Empresas</item>
+        <item>Conceptos básicos sobre los seguros médicos</item>
+		<item>Otros programas de salud</item>
+		<item>Si usted tiene cobertura</item>
+		<item>Derechos, Protecciones y la Ley</item>
+		<item>Prevención</item>
+    </string-array>
+    <string name="empty_qa">Seleccione un Tema</string>
+
+    <string name="call_page1">Para solicitar la cobertura, necesitará lo siguiente:\n\n\n-Números de Seguro Social (o números de documento para inmigrantes legales)\n\n-Informacion sobre su empleador y sobre los ingresos de cada miembro de su familia que necesita la cobertura (por ejemplo, cheques de salario o formularios W-2--Declaraciónes de Impuesto y Salario)\n\n-Números de póliza para los planes de seguro médico que cubren actualmente a miembros de su hogar\n\n-La forma &quot;Employer Coverage Tool&quot; completada (proveida por la pagina de web)</string>
+    <string name="tablet_check">Por desgracia, la opción de compra no está disponible en el sistema que está utilizando actualmente.*\n\n\n*Esto puede ser debido a que es una tableta. Por favor, use un teléfono para utilizar esta opción.\n\n</string>
+    <string name="call_page2">Tenga en cuenta el número de niños y adultos que quiera en su plan.\n\nObtenga información médica para cada miembro en particular:\n\n-Registros de nacimiento de todos los miembros\n\n-Historia de las enfermedades\n\n-Historia de fumar\n\n-Información sobre todas las visitas al hospital en el último año</string>
+    <string name="call_page3">Antes de solicitar la cobertura usted debería hacer lo siguiente:\n\n-Compruebe si usted puede conseguir unos costos menores de la cobertura utilizando el botón de la Calculadora de Costos\n\n-Obtenga la información para la Herramienta de Cobertura para ver si usted está calificado a través de un empleador. Descarge el formulario haciendo clic en el botón de la Herramienta de Cobertura\n\n</string>
+    <string name="call_page4">Ahora que usted tiene toda la información a la mano, hay dos maneras de solicitar el seguro de salud:\n\nEl primer método es llamando al 1-800-318-2596 o 1-855-889-4325 con el botón de llamada (abajo)\n\n</string>
+    <string name="call_thanks">La segunda manera de aplicar es visitando el sitio web utilizando el botón de abajo. Gracias por utilizar nuestra aplicación!\n\n</string>
+    <string name="call_now_button">Llamar</string>
+    <string name="visit_web_button">Visitar Pagina de Web</string>
+    <string name="share">Compartir</string>
+    <string name="next">Adelante</string>
+    <string name="back">Atrás</string>
+    <string name="visit_calculator">Calculadora de Costos</string>
+    <string name="visit_coverage">Herramienta de Cobertura</string>
+
+</resources>

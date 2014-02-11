@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Care Counts</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ways_women_win">Ways Women Win</string>
+    <string name="title_questions">Common Questions</string>
+    <string name="title_get_insurance">Get Insurance</string>
+    <string name="fact_1">Your healthcare plan must cover breastfeeding comprehensive support and counseling from trained providers, and access to breastfeeding supplies, for pregnant and nursing women.</string>
+    <string name="fact_2">Your healthcare plan must cover breast cancer mammography screenings every 1 to 2 years for women over 40.</string>
+    <string name="fact_3">Your healthcare plan must cover contraception: Food and Drug Administration-approved contraceptive methods, sterilization procedures, and patient education and counseling, as prescribed by a health care provider for women with reproductive capacity (not including abortifacient drugs). This does not apply to health plans sponsored by certain exempt &quot;religious employers&quot;.</string>
+    <string name="fact_4">Your healthcare plan must cover breast cancer chemoprevention counseling for women at higher risk.</string>
+    <string name="fact_5">Your healthcare plan must cover anemia screening on a routine basis for pregnant women.</string>
+    <string name="fact_6">Your healthcare plan must cover cervical cancer screening for sexually active women.</string>
+    <string name="fact_7">Your healthcare plan must cover chlamydia infection screening for younger women and other women at higher risk.</string>
+    <string name="fact_8">Your healthcare plan must cover breast cancer genetic test counseling (BRCA)  for women at higher risk for breast cancer.</string>
+    <string name="fact_9">Your healthcare plan must cover domestic and interpersonal violence screening and counseling  for all women.</string>
+    <string name="fact_10">Your healthcare plan must cover folic acid supplements for women who may become pregnant.</string>
+    <string name="fact_11">Your healthcare plan must cover gestational diabetes screening for women 24 to 28 weeks pregnant and those at high risk of developing gestational diabetes.</string>
+    <string name="fact_12">Your healthcare plan must cover gonorrhea screening for all women at higher risk.</string>
+    <string name="fact_13">Your healthcare plan must cover Hepatitis B screening for pregnant women at their first prenatal visit.</string>
+    <string name="fact_14">Your healthcare plan must cover HIV screening and counseling for sexually active women.</string>
+    <string name="fact_15">Your healthcare plan must cover Human Papillomavirus (HPV) DNA test every 3 years for women with normal cytology results who are 30 or older.</string>
+    <string name="fact_16">Your healthcare plan must cover osteoporosis screening for women over age 60 depending on risk factors.</string>
+    <string name="fact_17">Your healthcare plan must cover Rh Incompatibility screening for all pregnant women and follow-up testing for women at higher risk.</string>
+    <string name="fact_18">Your healthcare plan must cover Sexually Transmitted Infections counseling for sexually active women.</string>
+    <string name="fact_19">Your healthcare plan must cover syphilis screening for all pregnant women or other women at increased risk.</string>
+    <string name="fact_20">Your healthcare plan must cover tobacco-use screening and interventions for all women, and expanded counseling for pregnant tobacco users.</string>
+    <string name="fact_21">Your healthcare plan must cover urinary tract or other infection screening for pregnant women.</string>
+    <string name="fact_22">Your healthcare plan must cover well-woman visits to get recommended services for women under 65.</string>
+
+    <string-array name="www_facts">
+        <item>Your healthcare plan must cover breastfeeding comprehensive support and counseling from trained providers, and access to breastfeeding supplies, for pregnant and nursing women.</item>
+        <item>Your healthcare plan must cover breast cancer mammography screenings every 1 to 2 years for women over 40.</item>
+        <item>Your healthcare plan must cover contraception: Food and Drug Administration-approved contraceptive methods, sterilization procedures, and patient education and counseling, as prescribed by a health care provider for women with reproductive capacity (not including abortifacient drugs). This does not apply to health plans sponsored by certain exempt &quot;religious employers&quot;.</item>
+        <item>Your healthcare plan must cover breast cancer chemoprevention counseling for women at higher risk.</item>
+        <item>Your healthcare plan must cover anemia screening on a routine basis for pregnant women.</item>
+        <item>Your healthcare plan must cover cervical cancer screening for sexually active women.</item>
+        <item>Your healthcare plan must cover chlamydia infection screening for younger women and other women at higher risk.</item>
+        <item>Your healthcare plan must cover breast cancer genetic test counseling (BRCA)  for women at higher risk for breast cancer.</item>
+        <item>Your healthcare plan must cover domestic and interpersonal violence screening and counseling  for all women.</item>
+        <item>Your healthcare plan must cover folic acid supplements for women who may become pregnant.</item>
+        <item>Your healthcare plan must cover gestational diabetes screening for women 24 to 28 weeks pregnant and those at high risk of developing gestational diabetes.</item>
+        <item>Your healthcare plan must cover gonorrhea screening for all women at higher risk.</item>
+        <item>Your healthcare plan must cover Hepatitis B screening for pregnant women at their first prenatal visit.</item>
+        <item>Your healthcare plan must cover HIV screening and counseling for sexually active women.</item>
+        <item>Your healthcare plan must cover Human Papillomavirus (HPV) DNA test every 3 years for women with normal cytology results who are 30 or older.</item>
+        <item>Your healthcare plan must cover osteoporosis screening for women over age 60 depending on risk factors.</item>
+        <item>Your healthcare plan must cover Rh Incompatibility screening for all pregnant women and follow-up testing for women at higher risk.</item>
+        <item>Your healthcare plan must cover Sexually Transmitted Infections counseling for sexually active women.</item>
+        <item>Your healthcare plan must cover syphilis screening for all pregnant women or other women at increased risk.</item>
+        <item>Your healthcare plan must cover tobacco-use screening and interventions for all women, and expanded counseling for pregnant tobacco users.</item>
+        <item>Your healthcare plan must cover urinary tract or other infection screening for pregnant women.</item>
+        <item>Your healthcare plan must cover well-woman visits to get recommended services for women under 65.</item>
+    </string-array>
+
+    <string name="title_activity_qand_a">Common Questions</string>
+    <string-array name="QandA">
+        <item>Why should I have health coverage?</item>
+        <item>No one plans to get sick or hurt, but most people need medical care at some point. Health insurance covers these costs and protects you from very high expenses.</item>
+        <item>https://www.healthcare.gov/why-should-i-have-health-coverage/</item>
+        <item>Can children stay on a parent’s plan until age 26?</item>
+        <item>If a plan covers children, they can be added or kept on the health insurance policy until they turn 26 years old.</item>
+        <item>https://www.healthcare.gov/can-i-keep-my-child-on-my-insurance-until-age-26/</item>
+        <item>What are my birth control benefits?</item>
+        <item>Plans in the Health Insurance Marketplace must cover contraceptive methods and counseling for all women, as prescribed by a health care provider.</item>
+        <item>https://www.healthcare.gov/what-are-my-birth-control-benefits/</item>
+        <item>What if I\'m pregnant or plan to get pregnant?</item>
+        <item>If you\'re uninsured and pregnant you may be turned down, charged a higher premium, or have benefits excluded until 2014. Until then, Medicaid and CHIP may help.</item>
+        <item>https://www.healthcare.gov/what-if-im-pregnant-or-plan-to-get-pregnant/</item>
+        <item>What if I have a pre-existing health condition?</item>
+        <item>Starting in 2014, most health insurance plans can\'t refuse to cover you or charge you more just because you have a pre-existing health condition.</item>
+        <item>https://www.healthcare.gov/what-if-i-have-a-pre-existing-health-condition/</item>
+        <item>Do Marketplace insurance plans cover mental health and substance abuse services?</item>
+        <item>All Marketplace insurance plans cover mental health and substance abuse services as an essential health benefit.</item>
+        <item>https://www.healthcare.gov/do-marketplace-insurance-plans-cover-mental-health-and-substance-abuse-services/</item>
+    </string-array>
+    
+    <string-array name="q_and_a_topics">
+        <item>Health Insurance Marketplace</item>
+		<item>Using the Marketplace</item>
+		<item>Getting Lower Costs on Coverage</item>
+		<item>Young Adults</item>
+		<item>Businesses</item>
+        <item>Health Insurance Basics</item>
+		<item>Other Health Insurance Programs</item>
+		<item>If You Have Health Insurance</item>
+		<item>Rights, Protections, and the Law</item>
+		<item>Prevention</item>
+    </string-array>
+    
+    <string name="empty_qa">Select a Topic</string>
+    
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+
+    <string name="pref_language">Español</string>
+
+    <string name="healthcare_call_activity">Healthcare Call</string>
+    <string name="call_page1">To apply for coverage, you will need the following:\n\n\n-Social Security Numbers (or document numbers for legal immigrants)\n\n-Employer and income information for every member of your household who needs coverage (for example, from pay stubs or W-2 forms--Wage and Tax Statements)\n\n-Policy numbers for any current health insurance plans covering members of your household\n\n-A completed Employer Coverage Tool (provided on the site)</string>
+    <string name="tablet_check">Unfortunately, the call option is not available on the system you are using currently.*\n\n\n*This may be due to it being a tablet. Please use a phone to use this option.\n\n</string>
+    <string name="call_page2">Please note how many children and adults you would like on your plan.\n\nGather medical information for each member including:\n\n-Birth records for all members\n\n-History of diseases\n\n-History of smoking\n\n-Information on all hospital visits in the past year</string>
+    <string name="call_page3">Before applying for coverage you should:\n\n-Check if you can get lower costs on coverage by using the Cost Calculator button.\n\n-Obtain the information for the Employer Coverage Tool to see if you are qualified through an employer. Download this form by clicking on the Coverage Tool button\n\n</string>
+    <string name="call_page4">Now that you have all the information ready, there are two ways to apply for health insurance:\n\nThe first method is by calling 1-800-318-2596 or 1-855-889-4325 using the call button below.\n\n</string>
+    <string name="call_thanks">The second way to apply is by visiting the website using the button below. Thank you for using our app!\n\n</string>
+    <string name="call_now_button">Call Now</string>
+    <string name="visit_web_button">Go to Website</string>
+    <string name="visit_calculator">Cost Calculator</string>
+    <string name="visit_coverage">Coverage Tool</string>
+
+    <string name="share">Share This</string>
+
+
+</resources>

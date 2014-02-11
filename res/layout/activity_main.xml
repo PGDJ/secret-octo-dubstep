@@ -1,0 +1,114 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentTop="true"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_horizontal_margin"
+    android:weightSum="3.0" >
+
+    <RelativeLayout
+        android:id="@+id/layout_top_option"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_weight="1.0"
+        android:background="@drawable/now_button_custom"
+        android:clickable="true"
+        android:minHeight="40dp" >
+
+        <TextView
+            android:id="@+id/textView_top_option"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/imageView1"
+            android:text="@string/title_activity_ways_women_win"
+            android:textColor="@color/magenta"
+            android:textSize="21.00sp"
+            android:textStyle="bold"
+             />
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/twenty_two"
+            android:minWidth="100dp" 
+            android:minHeight="100dp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_middle_option"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_weight="1.0"
+        android:background="@drawable/now_button_custom"
+        android:clickable="true"
+        android:minHeight="40dp" >
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/q_and_a" 
+            android:minWidth="100dp"
+            android:minHeight="100dp"/>
+
+        <TextView
+            android:id="@+id/textView_middle_option"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/imageView2"
+            android:text="@string/title_questions"
+            android:textColor="@color/magenta"
+            android:textSize="21.00sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_bottom_option"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_weight="1.0"
+        android:background="@drawable/now_button_custom"
+        android:clickable="true"
+        android:minHeight="40dp" >
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/phone_icon" 
+            android:minWidth="100dp"
+            android:minHeight="100dp"/>
+
+        <TextView
+            android:id="@+id/textView_bottom_option"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/imageView3"
+            android:text="@string/title_get_insurance"
+            android:textColor="@color/magenta"
+            android:textSize="21.00sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+</LinearLayout>

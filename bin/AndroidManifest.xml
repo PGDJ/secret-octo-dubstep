@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.carecounts"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/CustomTheme" >
+        <provider
+            android:name="com.example.carecounts.qadb.QandAContentProvider"
+            android:authorities="com.example.carecount.provider"
+            android:exported="false" >
+        </provider>
+        <activity
+            android:name="com.example.carecounts.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.carecounts.FragmentPreferences"
+            android:label="@string/app_name" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.carecounts.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.carecounts.WaysWomenWin"
+            android:label="@string/title_activity_ways_women_win"
+            android:parentActivityName="com.example.carecounts.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.carecounts.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.carecounts.q_and_a.QandAActivity"
+            android:label="@string/title_activity_qand_a"
+            android:parentActivityName="com.example.carecounts.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.carecounts.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.carecounts.HealthcareCallActivity"
+            android:label="@string/healthcare_call_activity"
+            android:parentActivityName="com.example.carecounts.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.carecounts.MainActivity" />
+        </activity>
+        
+        <service android:name=".AlarmTweetService" />
+        </application>
+
+</manifest>

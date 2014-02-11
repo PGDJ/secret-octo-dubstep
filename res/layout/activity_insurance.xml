@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_horizontal_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin" >
+
+    <RelativeLayout
+        android:id="@+id/top_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" >
+
+            <ImageView
+                android:id="@+id/progress1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/complete_circle" />
+
+            <ImageView
+                android:id="@+id/progress2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/uncomplete_circle" />
+
+            <ImageView
+                android:id="@+id/progress3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/uncomplete_circle" />
+
+            <ImageView
+                android:id="@+id/progress4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/uncomplete_circle" />
+
+            <ImageView
+                android:id="@+id/progress5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/uncomplete_circle" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/fragment_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/now_button_custom"
+        android:layout_below="@+id/top_container"
+        android:layout_above="@+id/bottom_container"
+        >
+
+        <android.support.v4.view.ViewPager
+    		android:id="@+id/pager"
+    		android:layout_width="match_parent"
+    		android:layout_height="match_parent" />
+        
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/bottom_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true" >
+        
+        <Button
+        android:id="@+id/back_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/back"
+        android:background="@drawable/now_button_custom"
+        android:layout_weight="1.0"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:textColor="@color/magenta"/>
+        
+        <Button
+        android:id="@+id/next_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/next"
+        android:background="@drawable/now_button_custom"
+        android:layout_weight="1.0"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:textColor="@color/magenta"/>
+        
+    </LinearLayout>
+
+</RelativeLayout>
